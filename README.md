@@ -9,6 +9,7 @@ A plataforma é composta por três telas, o menu inicial, a section de cadastro 
 
 ![proffy2](https://user-images.githubusercontent.com/13524043/89454557-3e807300-d737-11ea-8a01-6c1458b5cf4a.jpg)
 
+Encontrar seu professor:
 ![image](https://user-images.githubusercontent.com/13524043/89454525-3294b100-d737-11ea-9928-6415d4399a3b.png)
 
 
