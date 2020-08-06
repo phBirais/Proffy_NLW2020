@@ -1,0 +1,27 @@
+{
+  "name": "Proffy_NLW2020",
+  "version": "1.0.0",
+  "description": "Criação do Proffy, plataforma de estudos online desenvolvida durante a Next Level Week, agosto 2020",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phBirais/Proffy_NLW2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phBirais/Proffy_NLW2020/issues"
+  },
+  "homepage": "https://github.com/phBirais/Proffy_NLW2020#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
